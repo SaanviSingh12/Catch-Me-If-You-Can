@@ -1,0 +1,33 @@
+#div{
+    height: 100px;
+    width:100px;
+    background-color: rgb(32, 24, 54);
+    position: relative;
+    top:100px;
+    left:500px;
+    color: aliceblue;
+    border: 2px solid rgb(229, 222, 247);
+   
+}
+
+#no{
+    height: 100px;
+    width:100px;
+    background-color: rgb(32, 24, 54);
+    position: relative;
+    top:100px;
+    left:800px;
+    color: aliceblue;
+    border: 2px solid rgb(229, 222, 247);
+}
+
+#main
+{
+    
+    font-size: 50px;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: antiquewhite;
+    text-decoration: underline;
+}
